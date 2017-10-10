@@ -8,12 +8,9 @@ public class Principal {
 
 		System.out.println(new Modulo1().menssagem());
 		
-<<<<<<< HEAD
+
 		System.out.println("#Anderson");
-=======
-		System.out.println("Alteração!");
->>>>>>> branch 'master' of https://github.com/EverisGit/repositorio.git
-		
+
 		System.out.println("#FIM");
 
 	}
