@@ -11,6 +11,8 @@ public class Principal {
 
 		System.out.println("#Anderson");
 
+		System.out.println("Alteração!");
+		
 		System.out.println("#FIM");
 
 	}
